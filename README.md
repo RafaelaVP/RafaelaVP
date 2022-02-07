@@ -3,7 +3,7 @@
 
 -🔭 Atualmente estou trabalhando como back-end trainee na Compass_uol!
 
--🌱 Estou aprendendo NodeJs, javascript e typescript!
+-🌱 Estou aprendendo javascript e typescript!
 
 
 
