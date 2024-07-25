@@ -1,7 +1,6 @@
 ### Oi! Eu sou a Rafaela Valerio!  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="50">
 
 
--🔭 Estou trabalhando como back-end trainee na Compass_uol!
 
 -🌱 Atualmente estou aprendendo javascript e typescript!
 
